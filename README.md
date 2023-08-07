@@ -9,7 +9,7 @@
 - Username : ssodev  
 - Password : sso2022ok
 
-**SQL**
+**SQL ของ Table**
 
     **create table** sso_user_test  
     (  
